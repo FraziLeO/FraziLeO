@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frazileo&label=Profile%20views&color=0e75b6&style=flat" alt="frazileo" /> </p>
 
-- 🔭 I’m currently working on **Automation Anywhere to automate live processes**
+-  I'm currently working on **Automation Anywhere to automate live processes**
+-  I'm working on Software Developement as well.
+-  Apart from this, I like to enhance myself through reading and exploring! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
