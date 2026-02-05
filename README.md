@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Frazi Sohail</h1>
-<h3 align="center">RPA Developer | Software Developer</h3>
+<h3 align="center">Data Science | Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frazileo&label=Profile%20views&color=0e75b6&style=flat" alt="frazileo" /> </p>
 
--  I'm currently working on **Automation Anywhere to automate live processes**
--  I'm working on Software Developement as well.
+-  I'm currently working as a **data science engineer**
 -  Apart from this, I like to enhance myself through reading and exploring! 
 
 <h3 align="left">Connect with me:</h3>
